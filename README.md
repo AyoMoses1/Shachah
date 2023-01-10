@@ -37,9 +37,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Portfolio Website <a name="about-project"></a>
+# 📖 Shachah Concert<a name="about-project"></a>
 
-**Shachah ** is one of the interesting projects I have had to work on as a developer. This project is so important to me because, it helps me present my self in terms of my skill sets, abilities, projects that I have worked on and most importantly my career goals to potential employees. 
+**Shachah ** is one of the interesting projects I have had to work on as a developer. This project is geared towards providing an online awareness about the annual Shachah concert. Shachah concert is a worship concert that is done virtually, to help people irrespective of their location to have an awesome worship experience. It features amazing gospel artists whose worship ministry has produced a global impact over the years.  
 ## 🛠 Built With <a name="built-with"> Html and CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -66,7 +66,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
-- [Live Demo Link](https://ayomoses1.github.io/Portfolio-Redefined/)
+- [Live Demo Link](https://ayomoses1.github.io/Shachah/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-folder
-  git clone https://github.com/AyoMoses1/Portfolio-Redefined.git
+  git clone https://github.com/AyoMoses1/Shachah.git
 ```
 
 ### Install
@@ -187,7 +187,7 @@ If you like this project, please support by contributing to the codebase
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank The entire Microverse team for the well documented and highly informative resources that helped me in building this project. Thanks!!!
+I would like to thank Cindy Shin for the awesome and inspiring design idea of this project. The design guidelines for this project was gotten from one of her most profound designs for a conference. Please find here a link the <a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">license</a>license, <a href="https://creativecommons.org/licenses/by-nc/4.0/#">disclaimer</a>and a link to the original <a href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">design</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
