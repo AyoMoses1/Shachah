@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="images/1.png" alt="logo" width="140"  height="auto" />
+  <img src="images/readmeLogo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Shachah Concert 2023</b></h3>
@@ -39,7 +39,7 @@
 
 # 📖 Shachah Concert<a name="about-project"></a>
 
-**Shachah ** is one of the interesting projects I have had to work on as a developer. This project is geared towards providing an online awareness about the annual Shachah concert. Shachah concert is a worship concert that is done virtually, to help people irrespective of their location to have an awesome worship experience. It features amazing gospel artists whose worship ministry has produced a global impact over the years.  
+**Shachah** is one of the interesting projects I have had to work on as a developer. This project is geared towards providing an online awareness about the annual Shachah concert. Shachah concert is a worship concert that is done virtually, to help people irrespective of their location to have an awesome worship experience. It features amazing gospel artists whose worship ministry has produced a global impact over the years.  
 ## 🛠 Built With <a name="built-with"> Html and CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -135,11 +135,11 @@ Example command:
 
 You can deploy this project using:
 
-<!--
-Example:
-```sh
-```
- -->
+- GitHub Pages
+- Netlify
+- Heroku
+- Cyclic
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +187,7 @@ If you like this project, please support by contributing to the codebase
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Cindy Shin for the awesome and inspiring design idea of this project. The design guidelines for this project was gotten from one of her most profound designs for a conference. Please find here a link the <a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">license</a>license, <a href="https://creativecommons.org/licenses/by-nc/4.0/#">disclaimer</a>and a link to the original <a href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">design</a>
+I would like to thank Cindy Shin for the awesome and inspiring design idea of this project. The design guidelines for this project was gotten from one of her most profound designs for a conference. Please find here a link to the <a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">license</a>, <a href="https://creativecommons.org/licenses/by-nc/4.0/#">disclaimer</a> and a link to the original <a href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">design</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
