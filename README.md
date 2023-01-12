@@ -162,6 +162,7 @@ You can deploy this project using:
 
 - **Responsive Application**
 - **Email Integration**
+- **Github Deployment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
