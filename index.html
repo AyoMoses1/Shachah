@@ -20,7 +20,7 @@
     </ul>
   </header>
   <nav>
-    <div class="nav-container flex">
+    <div class="nav-container flex active">
       <div class="hamburger">
         <span><i class="fa-solid fa-bars"></i></span>
       </div>
@@ -35,12 +35,20 @@
         <li><a href="#artists" class="nav_links">News</a></li>
         <li><a href="#sponsors" class="nav_links cta">CC Campaign</a></li>
       </ul>
+      <nav class="hamburger_nav_links">
+        <div class="hamburger-close">
+          <span><i class="fa-solid fa-xmark"></i></span>
+        </div>
+        <ul>
+          <li><a href="about.html"class="nav_links">About</a></li>
+          <li><a href="#artists" class="nav_links">Program </a></li>
+          <li><a href="#sponsors" class="nav_links">Join</a></li>
+          <li><a href="#sponsors" class="nav_links">Sponsor</a></li>
+          <li><a href="#sponsors" class="nav_links">News</a></li>
+          <li><a href="#sponsors" class="nav_links cta">CC Campaign</a></li>
+        </ul>
+      </nav>
     </div>
-    <ul class="hamburger_nav_links">
-      <li><a href="about.html"class="nav_links">About</a></li>
-      <li><a href="#artists" class="nav_links">Artists </a></li>
-      <li><a href="#sponsors" class="nav_links">Sponsors</a></li>
-   </ul>
   </nav>
   <main>
     <section id="hero">
@@ -93,80 +101,15 @@
         <h2>Ministering</h2>
         <span class="header-decorator"></span>
       </div>
-      <ul class="artist-grid">
-        <li class="grid-item">
-          <div class="grid-img">
-              <img src="images/nathan.jpeg" alt="Nathaniel Bassey">
-              <div class="img-gap"></div>
-          </div>
-          <div class="grid-details">
-              <h3>Nathaniel Bassey</h3>
-              <span class="title">Nigerian Lead worship singer at Loveworld Embassy</span>
-              <span class="artist-decorator"></span>
-              <p>GUC is a nigerian artist whose music ministry has affected countless of nigerians and also the worls at large.</p>
-          </div>
-        </li>
-        <li class="grid-item">
-          <div class="grid-img">
-              <img src="images/mercy.jpg" alt="Mercy Chinwo">
-              <div class="img-gap"></div>
-          </div>
-          <div class="grid-details">
-              <h3>Mercy Chinwo</h3>
-              <span class="title">Nigerian Lead worship singer at Loveworld Embassy</span>
-              <span class="artist-decorator"></span>
-              <p>GUC is a nigerian artist whose music ministry has affected countless of nigerians and also the worls at large.</p>
-          </div>
-        </li>
-        <li class="grid-item">
-          <div class="grid-img">
-              <img src="images/dunsin.jpg" alt="Dunsin Oyekan">
-              <div class="img-gap"></div>
-          </div>
-          <div class="grid-details">
-              <h3>Dunsin Oyekan</h3>
-              <span class="title">Nigerian Lead worship singer at Loveworld Embassy</span>
-              <span class="artist-decorator"></span>
-              <p>GUC is a nigerian artist whose music ministry has affected countless of nigerians and also the worls at large.</p>
-          </div>
-        </li>
-        <li class="grid-item">
-          <div class="grid-img">
-              <img src="images/moses.webp" alt="Moses Bliss">
-              <div class="img-gap"></div>
-          </div>
-          <div class="grid-details">
-              <h3>Moses Bliss</h3>
-              <span class="title">Nigerian Lead worship singer at Loveworld Embassy</span>
-              <span class="artist-decorator"></span>
-              <p>GUC is a nigerian artist whose music ministry has affected countless of nigerians and also the worls at large.</p>
-          </div>
-        </li>
-        <li class="grid-item">
-          <div class="grid-img">
-              <img src="images/guc.jpg" alt="GUC Image">
-              <div class="img-gap"></div>
-          </div>
-          <div class="grid-details">
-              <h3>Minister GUC</h3>
-              <span class="title">Nigerian Lead worship singer at Loveworld Embassy</span>
-              <span class="artist-decorator"></span>
-              <p>GUC is a nigerian artist whose music ministry has affected countless of nigerians and also the worls at large.</p>
-          </div>
-        </li>
-        <li class="grid-item">
-          <div class="grid-img">
-              <img src="images/Ada-Ehi.webp" alt="Ada Ehi">
-              <div class="img-gap"></div>
-          </div>
-          <div class="grid-details">
-              <h3>Ada Ehi</h3>
-              <span class="title">Nigerian Lead worship singer at Loveworld Embassy</span>
-              <span class="artist-decorator"></span>
-              <p>GUC is a nigerian artist whose music ministry has affected countless of nigerians and also the worls at large.</p>
-          </div>
-        </li>
-      </ul>
+      <ul class="artist-grid"></ul>
+      <div class="btn-container">
+        <button class="artist-controller">
+          More <i class="fa-solid fa-caret-down"></i> 
+        </button>
+        <button class="artist-controller-less hide">
+          Less <i class="fa-solid fa-caret-down"></i> 
+        </button>
+      </div>
     </section>
     <section id="partners">
       <div>

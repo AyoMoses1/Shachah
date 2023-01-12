@@ -1,5 +1,5 @@
 
-#about-banner .flex{
+#about-banner .flex {
   flex-direction: column;
   padding: 51px 30px;
   background-image: url("images/mobile_intro_bg.png");
@@ -19,7 +19,7 @@
   color: var(--secondary);
 }
 
-#about-banner .banner-text{
+#about-banner .banner-text {
   border: 2px solid var(--grey);
   background: #fff;
   padding: 1em 0.5em;
@@ -159,5 +159,4 @@ div.overlay {
     grid-template-columns: 1fr 1fr;
     column-gap: 10%;
   }
-
 }
