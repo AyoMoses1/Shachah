@@ -24,7 +24,7 @@ const artists = [
     name: 'Mercy Chinwo',
     title: 'Nigeria lead worship singer at Loveworld Embassy',
     bio: 'GUC is a nigerian artist whose music ministry has affected countless of nigerians and also the worls at large',
-    image: 'images/mercy.jpg',
+    image: 'https://i.scdn.co/image/ab6761610000e5eb1ccb8d2cb175afd0fa1b612c',
   },
   {
     name: 'Dunsin Oyekan',

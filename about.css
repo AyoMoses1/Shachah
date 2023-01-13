@@ -127,6 +127,11 @@ div.overlay {
   background-image: url("https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=600");
 }
 
+#footer {
+  background: var(--primary);
+  color: #fff;
+}
+
 @media (min-width: 768px) {
   #about-banner .flex {
     padding: 100px 20%;
