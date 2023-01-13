@@ -6,9 +6,140 @@
   <title>Shachah Concert 2023</title>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
   <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+  <script src="https://kit.fontawesome.com/c92c970d81.js" crossorigin="anonymous"></script>
 </head>
 <body>
-  <h1>Shachah Concert 2023</h1>
+  <header id="header">
+    <i class="fa-brands fa-facebook"></i>
+    <i class="fa-brands fa-twitter"></i>
+
+    <ul class="header-links">
+      <li><a href="about.html"class="nav_links">English</a></li>
+      <li><a href="#artists" class="nav_links">My Page</a></li>
+      <li><a href="#sponsors" class="nav_links">Logout</a></li>
+    </ul>
+  </header>
+  <nav>
+    <div class="nav-container flex active">
+      <div class="hamburger">
+        <span><i class="fa-solid fa-bars"></i></span>
+      </div>
+      <div class="logo">
+          <a href="index.html"><img src="images/Screenshot_2023-01-10_130534-removebg-preview.png" alt="logo"></a>
+      </div>
+      <ul class="desktop_nav_links">
+        <li><a href="about.html"class="nav_links">About</a></li>
+        <li><a href="#artists" class="nav_links">Program </a></li>
+        <li><a href="#sponsors" class="nav_links">Join</a></li>
+        <li><a href="about.html"class="nav_links">Sponsor</a></li>
+        <li><a href="#artists" class="nav_links">News</a></li>
+        <li><a href="#sponsors" class="nav_links cta">CC Campaign</a></li>
+      </ul>
+      <nav class="hamburger_nav_links">
+        <div class="hamburger-close">
+          <span><i class="fa-solid fa-xmark"></i></span>
+        </div>
+        <ul>
+          <li><a href="about.html"class="nav_links">About</a></li>
+          <li><a href="#artists" class="nav_links">Program </a></li>
+          <li><a href="#sponsors" class="nav_links">Join</a></li>
+          <li><a href="#sponsors" class="nav_links">Sponsor</a></li>
+          <li><a href="#sponsors" class="nav_links">News</a></li>
+          <li><a href="#sponsors" class="nav_links cta">CC Campaign</a></li>
+        </ul>
+      </nav>
+    </div>
+  </nav>
+  <main>
+    <section id="hero">
+        <div class="flex">
+          <span class="hero-caption">"Hello, Sharing world!"</span>
+          <h1>SHACHAH GLOBAL WORSHIP CONCERT 2023</h1>
+          <p class="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt nulla facere pariatur cum quidem.</p>
+          <div class="date">
+            <span>2023.10.15(SUN) - 16(MON)</span>
+            <p>@National Museum of Nigeria, Art Center Nabi and more</p>
+          </div>
+        </div>
+    </section> 
+    <section id="program">
+      <div class="program-header">
+        <h2>Main Program</h2>
+        <span class="header-decorator"></span>
+      </div>
+      <ul class="program-outline flex">
+        <li>
+          <img src="images/program_icon_01.png" alt="program icon">
+          <h5>Remarks</h5>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.lorem10 Lorem </p>
+        </li>
+        <li>
+          <img src="images/program_icon_02.png" alt="program icon">
+          <h5>Worship</h5>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.lorem10 Lorem</p>
+        </li>
+        <li>
+          <img src="images/program_icon_03.png" alt="program icon">
+          <h5>The Word</h5>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.lorem10 Lorem.</p>
+        </li>
+        <li>
+          <img src="images/program_icon_04.png" alt="program icon">
+          <h5>Closing</h5>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.lorem10 Lorem</p>
+        </li>
+        <li>
+          <img src="images/program_icon_05.png" alt="program icon">
+          <h5>Lights Out</h5>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.lorem10 Lorem</p>
+        </li>
+      </ul>
+      <button>Join Shachah Concert 2023</button>
+    </section>
+    <section id="artists">
+      <div class="artists-header">
+        <h2>Ministering</h2>
+        <span class="header-decorator"></span>
+      </div>
+      <ul class="artist-grid"></ul>
+      <div class="btn-container">
+        <button class="artist-controller">
+          More <i class="fa-solid fa-caret-down"></i> 
+        </button>
+        <button class="artist-controller-less hide">
+          Less <i class="fa-solid fa-caret-down"></i> 
+        </button>
+      </div>
+    </section>
+    <section id="partners">
+      <div>
+        <img src="images/logo1.png" alt="logo">
+      </div>
+      <div>
+        <img src="images/logo2.png" alt="logo">
+      </div>
+      <div>
+        <img src="images/logo3.png" alt="logo">
+      </div>
+      <div>
+        <img src="images/logo4.png" alt="logo">
+      </div> 
+      <div>
+        <img src="images/logo5.png" alt="logo">
+      </div>
+      <div>
+        <img src="images/logo6.png" alt="logo">
+      </div>
+    </section>
+  </main>
+  <footer id="footer">
+    <div class="logo-container">
+      <img src="images/Screenshot_2023-01-10_130534-removebg-preview.png" alt="">
+    </div>
+    <div class="copyright">
+      <p>2015 creative commons Korea. <br> Some rights reserved</p>
+    </div>
+  </footer>
   <script src='index.js'></script>
 </body>
 </html>
