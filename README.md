@@ -39,7 +39,7 @@
 
 # 📖 Shachah Concert<a name="about-project"></a>
 
-**Shachah** is one of the interesting projects I have had to work on as a developer. This project is geared towards providing an online awareness about the annual Shachah concert. Shachah concert is a worship concert that is done virtually, to help people irrespective of their location to have an awesome worship experience. It features amazing gospel artists whose worship ministry has produced a global impact over the years.  
+**Shachah** is one of the interesting projects I have had to work on as a developer. This project is geared towards providing an online awareness about the annual Shachah concert. Shachah concert is a worship concert that is done virtually, to help people irrespective of their location to have an awesome worship experience. It features amazing gospel artists whose worship ministry has produced a global impact over the years. Here is a <a href="https://www.loom.com/share/1e916dd434a54775bf204e61011a2537">Link</a> to a loom video describing every feature of this project  
 ## 🛠 Built With <a name="built-with"> Html and CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
